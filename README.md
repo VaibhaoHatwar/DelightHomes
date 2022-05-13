@@ -1,6 +1,6 @@
 # DELIGHTHOMES WEBSITE
 
-Home delights real-estate web app created using React18, bootstrap5.
+Delight homes real-estate web app created using React18, bootstrap5.
 
 # packages used
 
